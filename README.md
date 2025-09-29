@@ -41,6 +41,10 @@ By combining **Python**, **SQL**, and **Power BI**, this project streamlines pro
 └── requirements.txt     # Python dependencies
 
 
+
+---
+
+
 🚀 How to Run the Project
 
 Clone the repository:
