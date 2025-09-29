@@ -42,7 +42,7 @@ By combining **Python**, **SQL**, and **Power BI**, this project streamlines pro
 
 
 
----
+
 
 
 🚀 How to Run the Project
