@@ -39,3 +39,29 @@ By combining **Python**, **SQL**, and **Power BI**, this project streamlines pro
 ├── dashboard/           # Power BI files (.pbix)
 ├── README.md            # Project documentation
 └── requirements.txt     # Python dependencies
+
+
+🚀 How to Run the Project
+
+Clone the repository:
+git clone https://github.com/your-username/strategic-vendor-dashboard.git
+
+
+Install Python dependencies:
+pip install -r requirements.txt
+
+
+Run the data preprocessing notebook to generate cleaned datasets.
+Open the Power BI file (.pbix) to explore the interactive dashboard.
+
+📈 Outcomes
+
+Improved visibility into vendor performance trends.
+Enabled proactive decision-making for procurement planning.
+Reduced vendor-related risks through data-driven monitoring.
+
+📢 Future Improvements
+
+Automate data refresh using Power BI service and scheduled pipelines.
+Integrate machine learning models to predict vendor risks.
+Expand dashboard to cover multi-regional procurement performance.
